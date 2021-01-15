@@ -1,0 +1,94 @@
+.top-area {
+    height: 800;
+    background-color: rgb(255, 255, 231);
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(17, 17, 95);
+}
+
+h2 {
+    color: rgb(17, 17, 95);
+    margin-top: 30px;
+}
+
+h3 {
+    color: rgb(255, 200, 60)
+}
+
+h5 {
+    color: rgb(17, 17, 95);
+    font-size: 25px;
+}
+
+span {
+    color: rgb(255, 200, 60)
+}
+
+.button-image {
+    height: 40px;
+}
+
+.button-color {
+    background-color: rgb(150, 202, 73);
+}
+
+.card-img-top {
+    height: 290px;
+    width: 330px;
+}
+
+.product-pricing {
+    display: inline-flex;
+}
+
+.navbar-brand {
+    height: 55px;
+    margin-right: 400px;
+}
+
+.card-img-top {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 55px;
+    margin-top: 20px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 30px;
+}
+
+.shopping-cart img {
+    height: 400px;
+    width: 90%;
+}
+
+.perfect-logo-img img {
+    height: 100px;
+    width: 100px;
+}
+
+.Exchanges-logo-img img {
+    height: 100px;
+    width: 100px;
+}
+
+.Contact-logo-img img {
+    height: 100px;
+    width: 100px;
+}
+
+.card-footer {
+    border: none;
+    background-color: white;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 1px;
+}
+
+.extra-part {
+    background-color: rgb(235, 235, 235);
+}
